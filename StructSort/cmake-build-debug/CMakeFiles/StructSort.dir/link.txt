@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/StructSort.dir/StructSort.cpp.o  -o StructSort.exe -Wl,--out-implib,libStructSort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
